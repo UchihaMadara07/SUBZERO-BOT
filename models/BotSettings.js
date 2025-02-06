@@ -8,4 +8,3 @@ const botSettingsSchema = new mongoose.Schema({
 
 // Export the model
 module.exports = mongoose.model('BotSettings', botSettingsSchema);
-
